@@ -1,0 +1,24 @@
+.heading{
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+}
+.title{
+    font-size: 20px;
+    color:rgb(70, 94, 160);
+}
+.copyright-footer{
+    position: fixed;
+    color: white;
+    background-color: plum;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border-color: (15, 164, 214, 0.918);
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px grey;
+}
